@@ -1,0 +1,19 @@
+# PixelLang - feature demo
+store health = 100;
+echo ("=== PixelLang Demo ===");
+dash fore 4 paces;
+leap soar;
+strike foe goblin;
+grab item sword;
+when (health > 50) {
+    echo ("Health good - attacking!");
+    strike foe dragon;
+}
+otherwise {
+    echo ("Health low - retreating!");
+    dash back 2 paces;
+}
+repeat (3) {
+    grab item coin;
+}
+echo ("Demo complete!");

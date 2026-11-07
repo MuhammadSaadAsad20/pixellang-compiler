@@ -1,5 +1,7 @@
 # PixelLang Compiler
 
+[![CI](https://github.com/MuhammadSaadAsad20/pixellang-compiler/actions/workflows/ci.yml/badge.svg)](https://github.com/MuhammadSaadAsad20/pixellang-compiler/actions/workflows/ci.yml)
+
 A compiler and interpreter for PixelLang, a small language for scripting a game
 character, written from scratch in a single Java file with no external libraries.
 Built as my Compiler Construction final project.
